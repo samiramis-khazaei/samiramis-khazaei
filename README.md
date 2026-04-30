@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm Sam!
 
 Data Analyst specializing in construction cost control, project analytics, and financial engineering. I combine domain expertise in project controls with strong analytical skills to transform data into actionable insights for decision-making.
 
